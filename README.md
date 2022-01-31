@@ -1,5 +1,5 @@
-# Html Landing Page - Profile
+# RyuKazuna Profile Page
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/nahrowi/pen/GjwYEz](https://codepen.io/nahrowi/pen/GjwYEz).
+Feel free to use the template.
 
-Cocok digunakan untuk landing page untuk portofolio, isinya landing page animasi, bisa input Url Link
+Fetched from CodePen.io. Original URL: [https://codepen.io/nahrowi/pen/GjwYEz](https://codepen.io/nahrowi/pen/GjwYEz).
